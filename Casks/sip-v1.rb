@@ -1,4 +1,4 @@
-cask 'sip' do
+cask 'sip-v1' do
   version '1.1.6'
   sha256 'bb170a54090aab5703388a3e7a22e9cf4e4d98e84f5658893e1e6f9677b9a51e'
 
