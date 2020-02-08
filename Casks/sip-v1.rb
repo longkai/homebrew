@@ -1,6 +1,6 @@
 cask 'sip-v1' do
   version '1.2'
-  sha256 'eb4507ce67c6d19c4e649d3e033542265be8d2aaccabc7f8ee00080842a886c0'
+  sha256 '93569421eef761ccdd2784d73e5f201d29e5e22ad6814a7a169f459f460bf4ff'
 
   url "https://sipapp.io/updates/v#{version.major}/sip-#{version}.zip"
   appcast "https://sipapp.io/updates/v#{version.major}/sip.xml"
