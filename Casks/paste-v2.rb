@@ -1,4 +1,4 @@
-cask 'paste' do
+cask 'paste-v2' do
   version '2.5.5,12'
   sha256 '813b24a83ce934aace06f21e3e747b285fddd4f8b5ec13819bfe3a5367b0fbdf'
 
